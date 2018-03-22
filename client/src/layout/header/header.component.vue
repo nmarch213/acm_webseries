@@ -2,4 +2,4 @@
 
 <script src="./header.component.js"></script>
 
-<style src="./header.component.scss" lang="scss" scope></script>
+<style src="./header.component.scss" scoped></script>
