@@ -1,0 +1,6 @@
+<div id='blog'>
+  Test Blog
+  <div class="column is-one-third" v-for="(post, title) in posts" v-bind:key>
+    <blog-post :post="post"></blog-post>
+  </div>
+</div>

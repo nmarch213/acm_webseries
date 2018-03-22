@@ -1,5 +1,3 @@
-<template src="./post.component.html">
-
-</template>
+<template src="./post.component.html"></template>
 
 <script src="./post.component.js"></script>

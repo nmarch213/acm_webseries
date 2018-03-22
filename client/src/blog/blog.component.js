@@ -1,10 +1,11 @@
-import Post from './post/post.component';
+import BlogPost from './post/post.component';
 
 export default {
+  name: 'blog-content',
   components: {
-    'app-post': Post
+    'blog-post': BlogPost
   },
-  date() {
+  data() {
     return {
       posts: [
         {
